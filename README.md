@@ -13,7 +13,7 @@ Follow these steps to bring your contribution graph to life:
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/fenrir2608/goGreen.git](https://github.com/cprakash64/Go-Green.git
+git clone https://github.com/cprakash64/Go-Green.git
 cd goGreen
 ```
 3. **Set up your project**
